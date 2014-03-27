@@ -1,0 +1,8 @@
+ {
+      "name": "parsleyjs-v2",
+      "description": "Parsley form validation v2",
+      "homepage": "https://github.com/Sewdn/meteor-parsleyjsv2",
+      "author": "Pieter Soudan",
+      "version": "0.1.0",
+      "git": "https://github.com/Sewdn/meteor-parsleyjsv2.git"
+}
